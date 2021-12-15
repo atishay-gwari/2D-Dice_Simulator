@@ -14,12 +14,3 @@ b.place(x=330,y=0)
 
 root.mainloop()
 
-#x=True
-#while x:
-  #  print(random.randint(1, 6))
-  #  roll_aggain=str(input("Do you want to roll the dice again ?[y/n] : "))
-   # a=roll_aggain.lower()
-  #  if a=='y'or a=='yes':
-   #     continue
-   # else:
-   #     break
